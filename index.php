@@ -65,7 +65,7 @@
   <div class= "vid-parent">
 
     <video playsinline autoplay muted loop>
-      <source src="video/banvid.mp4" >
+      <source src="video/3255275-uhd_3840_2160_25fps.mp4" >
     </video>
     <div class=" vid-overlay"></div>
   </div>
