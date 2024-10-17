@@ -1,7 +1,4 @@
-
- 
-
-    <!-- Start Student Registration Modal -->
+  <!-- Start Student Registration Modal -->
     <div class="modal fade" id="stuRegModalCenter" tabindex="-1" role="dialog" aria-labelledby="stuRegModalCenterTitle" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
@@ -12,9 +9,11 @@
             </button>
           </div>
           <div class="modal-body">
+           
             <!--Start Form Registration-->
             <?php include('studentRegistration.php'); ?>
             <!-- End Form Registration -->
+           
           </div>
           <div class="modal-footer">
             <span id="successMsg"></span>
@@ -54,10 +53,8 @@
           </div>
         </div>
       </div>
-    </div> <!-- End Student Login Modal -->
-
-
-  
+    </div> 
+<!-- End Student Login Modal -->
 
     <!-- Jquery and Boostrap JavaScript -->
     <script type="text/javascript" src="js/jquery.min.js"></script>
@@ -73,11 +70,5 @@
 
     <!-- Student Ajax Call JavaScript -->
     <script type="text/javascript" src="js/ajaxrequest.js"></script>
-
-    
-
-   
-
   </body>
-
 </html>
