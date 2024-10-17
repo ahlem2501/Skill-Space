@@ -7,7 +7,7 @@
     <div class="container-fluid remove-vid-marg">
       <div class="vid-parent">
         <video playsinline autoplay muted loop>
-          <source src="video/banvid.mp4" />
+          <source src="video/Teamwork.mp4" />
         </video>
         <div class="vid-overlay"></div>
       </div>
@@ -21,18 +21,7 @@
           ?> 
        
       </div>
-    </div> <!-- End Video Background -->
-
-   
-    
-    
-         
-      
-
-   
-
-    
-
+    </div> <!-- End Video Background -->s 
     <div class="container-fluid bg-danger"> <!-- Start Social Follow -->
         <div class="row text-white text-center p-1">
           <div class="col-sm">
