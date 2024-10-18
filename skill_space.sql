@@ -17,8 +17,8 @@ CREATE TABLE `student` (
 
 -- Dumping data for table `student`
 INSERT INTO `student` (`stu_id`, `stu_name`, `stu_email`, `stu_pass`, `stu_occ`, `stu_img`) VALUES
-(171, 'Captain Marvel', 'cap@example.com', '123456', ' Web Designer', '../image/stu/student2.jpg'),
-(172, 'Ant Man', 'ant@example.com', '123456', ' Web Developer', '../image/stu/student4.jpg');
+(1, 'Captain Marvel', 'cap@example.com', '123456', ' Web Designer', '../image/stu/student2.jpg'),
+(2, 'Ant Man', 'ant@example.com', '123456', ' Web Developer', '../image/stu/student4.jpg');
 
 -- --------------------------------------------------------
 
@@ -31,5 +31,4 @@ ALTER TABLE `student`
 -- AUTO_INCREMENT for tables
 ALTER TABLE `student`
   MODIFY `stu_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=183;
-
 COMMIT;
