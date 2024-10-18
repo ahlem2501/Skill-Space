@@ -17,8 +17,8 @@ CREATE TABLE `student` (
 
 -- Dumping data for table `student`
 INSERT INTO `student` (`stu_id`, `stu_name`, `stu_email`, `stu_pass`, `stu_occ`, `stu_img`) VALUES
-(1, 'Captain Marvel', 'cap@example.com', '123456', ' Web Designer', '../image/stu/student2.jpg'),
-(2, 'Ant Man', 'ant@example.com', '123456', ' Web Developer', '../image/stu/student4.jpg');
+(1, 'Soudais', 'soudais@gmail.com', '123456', ' Web Designer', ''),
+(2, 'Halima', 'halima@gmail.com', '123456', ' Web Developer','');
 
 -- --------------------------------------------------------
 
