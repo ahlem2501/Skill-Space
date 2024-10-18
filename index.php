@@ -56,7 +56,7 @@
         <div class="row text-center">
           <div class="col-sm">
             <h5>About Us</h5>
-              <p>SkillSpace provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online.</p>
+              <p>made by HALIMA BENCHAA 210041148.</p>
           </div>
           <div class="col-sm">
             <h5>Category</h5>

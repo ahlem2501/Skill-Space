@@ -1,16 +1,9 @@
--- phpMyAdmin SQL Dump
--- version 4.9.1
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Generation Time: Jul 16, 2020 at 04:36 PM
--- Server version: 10.4.8-MariaDB
--- PHP Version: 7.3.10
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;
-SET time_zone = "+00:00";
+
 
 -- --------------------------------------------------------
 
@@ -43,9 +36,9 @@ CREATE TABLE `feedback` (
 
 -- Dumping data for table `feedback`
 INSERT INTO `feedback` (`f_id`, `f_content`, `stu_id`) VALUES
-(3, 'My life at iSchool made me stronger and took me a step ahead for being an independent woman.', 171),
-(8, 'I am grateful to iSchool - both the faculty and the Training & Placement Department.', 172),
-(9, 'iSchool is a place of learning, fun, culture, and many such life preaching activities.', 173);
+(3, 'student opinion .', 171),
+(8, 'teacher opinion', 172),
+(9, ' the user experience feedback .', 173);
 
 -- --------------------------------------------------------
 
