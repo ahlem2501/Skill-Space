@@ -1,3 +1,4 @@
+//C:\xampp\htdocs\Educode_update\Educode\ELearning\js\ajaxrequest.js
 $(document).ready(function() {
   // Ajax Call for Already Exists Email Verification
   $("#stuemail").on("keypress blur", function() {

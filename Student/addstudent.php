@@ -1,3 +1,4 @@
+C:\xampp\htdocs\Educode_update\Educode\ELearning\Student\addstudent.php
 <?php 
 if(!isset($_SESSION)){ 
   session_start(); 
