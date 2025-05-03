@@ -1,9 +1,15 @@
+C:\xampp\htdocs\Educode_update\Educode\ELearning\loginorsignup.php
 <?php 
   include('./dbConnection.php');
   // Header Include from mainInclude 
   include('./mainInclude/header.php'); 
 ?>
-   
+    <div class="container-fluid bg-dark"> <!-- Start Course Page Banner -->
+      <div class="row">
+        <img src="./image/coursebanner.jpg" alt="courses" style="height:300px; width:100%; object-fit:cover; box-shadow:10px;"/>
+      </div> 
+    </div> <!-- End Course Page Banner -->
+
 
     <div class="container jumbotron mb-5">
      <div class="row">
@@ -27,7 +33,7 @@
            <div class="form-group">
              <i class="fas fa-user"></i><label for="stuname" class="pl-2 font-weight-bold">Name</label><small id="statusMsg1"></small><input type="text"
                class="form-control" placeholder="Name" name="stuname" id="stuname">
-          </div>
+           </div>
            <div class="form-group">
            <i class="fas fa-envelope"></i><label for="stuemail" class="pl-2 font-weight-bold">Email</label><small id="statusMsg2"></small><input type="email"
                class="form-control" placeholder="Email" name="stuemail" id="stuemail">
@@ -45,7 +51,10 @@
     </div>
     <hr/>
 
-
+<?php 
+// Contact Us
+include('./contact.php'); 
+?> 
 
 <?php 
   // Footer Include from mainInclude 
