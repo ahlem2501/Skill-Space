@@ -48,7 +48,7 @@ Place the unzipped folder into C://xampp/htdocs/.
 
 ## Admin Access:
 Login with the following credentials to manage recipes and view student feedback:
-   - **Name:** youss 
+   - **Name:** admin
    - **Email:**admin@gmail.com
    - **Password:** 123 
 
