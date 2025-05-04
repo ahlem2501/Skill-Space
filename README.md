@@ -48,8 +48,8 @@ Rename the folder to EDUCODE-web-page (optional but helps with consistency).
 ## Admin Access:
 Login with the following credentials to manage recipes and view customer feedback:
 Name: admin
-**Email:**admin@gmail.com
-Password: 123
+**Email:**admin@gmail.com.
+Password: 123.
 
 ## Project Structure:
 The project files are organized with clear naming conventions to reflect their functions:
