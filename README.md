@@ -36,7 +36,7 @@ Start Apache and MySQL from the XAMPP Control Panel.
 2. Move Project Files
 Unzip the downloaded project files.
 Place the unzipped folder into C://xampp/htdocs/.
-Rename the folder to EDUCODE-web-page (optional but helps with consistency).
+3. Rename the folder to EDUCODE-web-page (optional but helps with consistency).
 
 ## Set Up the Database:
 1. Open phpMyAdmin in your browser.
@@ -48,14 +48,15 @@ Rename the folder to EDUCODE-web-page (optional but helps with consistency).
 
 ## Admin Access:
 Login with the following credentials to manage recipes and view student feedback:
-Name: admin
-Email:**admin@gmail.com.**
-Password: 123
+   - **Name:** youss 
+   - **Email:**admin@gmail.com
+   - **Password:** 123 
+
 
 ## Project Structure:
 The project files are organized with clear naming conventions to reflect their functions:
 
-student_login.php: Manages the student login process.
-admin_login.php: Handles the admin login.
-Other files: Follow similar naming conventions to indicate their purpose.
+- **`student_login.php`:** Manages the student login process.  
+- **`admin_login.php`:** Handles the admin login.  
+- **Other files:** Follow similar naming conventions to indicate their purpose.
 
